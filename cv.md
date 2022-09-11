@@ -23,6 +23,8 @@
 
 ### Code example: 
 > This fucntion checks is array symmetrical
+
+
 ``` javascript
 function isSymmetrical(arr){
     isSym=true;
