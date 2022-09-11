@@ -13,13 +13,15 @@
 
 
 ### My skills:
-| Programming Languages| Programmes |
-|-------|-------|
-| C++ | Git |
-| JavaScript | GitHub |
-| HTML5(hehe) | VS Code |
-| CSS3 | Microsoft Visual Studio |
-| Python(very little) | Chrome DevTools |
+
+
+| Programming Languages | Programmes              |
+| --------------------- | ----------------------- |
+| C++                   | Git                     |
+| JavaScript            | GitHub                  |
+| HTML5(hehe)           | VS Code                 |
+| CSS3                  | Microsoft Visual Studio |
+| Python(very little)   | Chrome DevTools         |
 
 ### Code example: 
 > This fucntion checks is array symmetrical
